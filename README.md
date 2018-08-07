@@ -1,5 +1,6 @@
 # Hello-World
 这是一个简单练习
 
-Hi yi:
+Hi yi
 Hello world!
+Hello python!
